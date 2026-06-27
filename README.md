@@ -8,7 +8,7 @@ Sravani Battula
 
 Dalayi Kusuma
 
-Prveen Dasari
+Praveen Dasari
 
 # Repository Structure
 
